@@ -1,8 +1,12 @@
-print("Hello world!!!");
 
+
+<<<<<<< HEAD
 hello
 
 привет мои друзья
 
 привет все
 
+=======
+hello;ии
+>>>>>>> master
